@@ -47,12 +47,7 @@ a {
 	color: white;
 }
 body {
-<<<<<<< HEAD
-	background-image: url("/images/bg.jpg");
-=======
-	background-image: url("file:///C:/Users/Matthew/Desktop/Website/images/bg.jpg");
->>>>>>> 2d0e623995915f7716d02a5061e71cd87bc6cd96
-	height: 100%;
+	background-image: url("https://mmholland.github.io/images/bg.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
