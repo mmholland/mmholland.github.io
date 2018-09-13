@@ -29,7 +29,7 @@ p {
 }
 .footer {
 	position: fixed;
-	text-align: right;
+	text-align: center;
 	bottom: 0px;
 	width: 100%;
 }
