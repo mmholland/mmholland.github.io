@@ -47,7 +47,11 @@ a {
 	color: white;
 }
 body {
+<<<<<<< HEAD
 	background-image: url("https://mmholland.github.io/images/bg.jpg");
+=======
+	background-image: url("images/bg.jpg");
+>>>>>>> efdc8e7c83b7becede1a6c8343163bb71bdca9b9
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
