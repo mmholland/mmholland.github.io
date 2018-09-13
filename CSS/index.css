@@ -47,7 +47,11 @@ a {
 	color: white;
 }
 body {
+<<<<<<< HEAD
 	background-image: url("../images/bg.jpg");
+=======
+	background-image: url("images/bg.jpg");
+>>>>>>> 06104b3f188ece22d58de4cdb10b034b4938acd3
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
