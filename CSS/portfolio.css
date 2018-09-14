@@ -2,6 +2,7 @@ html, body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
+	padding-bottom: 125px;
 }
 h1 { 
 	color: white;
@@ -42,7 +43,7 @@ p {
 	width: 100%;
 }
 .container {
-	min-height: 85%;
+	min-height: 100%;
 	margin-bottom: 0px;
 }
 ul {
@@ -68,6 +69,7 @@ a:hover {
 	color: #4286f4;
 }
 body {
+	height: 100%;
 	background-image: url("https://mmholland.github.io/images/bg.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
