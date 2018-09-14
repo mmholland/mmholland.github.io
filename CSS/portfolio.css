@@ -1,3 +1,8 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
 h1 { 
 	color: white;
 	font-family: 'Aclonica';
@@ -16,6 +21,10 @@ h2 {
 	margin-bottom: 0px;
 	text-shadow: 2px 2px black;
 }
+h3 {
+	font-size: 35;
+	text-shadow: 2px 2px black;
+}
 p.description {
 	margin-left: 2%;
 	margin-right: 2%;
@@ -29,10 +38,12 @@ p {
 	font: 15px Helvetica, Arial, sans-serif;
 }
 .footer {
-	position: fixed;
 	text-align: center;
-	bottom: 0px;
 	width: 100%;
+}
+.container {
+	min-height: 85%;
+	margin-bottom: 0px;
 }
 ul {
 	text-align: right;
@@ -44,12 +55,14 @@ li {
 	display: inline;
 	padding: 5px;
 }
-a {
-	color: white;
-	text-decoration: none;
+a.bar {
 	font-family: 'Aclonica';
 	font-size: 18px;
 	text-shadow: 2px 2px black;
+}
+a { 
+	color: white;
+	text-decoration: none;
 }
 a:hover {
 	color: #4286f4;
