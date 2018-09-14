@@ -51,7 +51,7 @@ a {
 	font-size: 18px;
 	text-shadow: 2px 2px black;
 }
-a:hover, h1:hover {
+a:hover {
 	color: #4286f4;
 }
 body {
@@ -68,11 +68,13 @@ table {
 }
 td {
 	vertical-align: top;
-	border: 1px solid white;
 	word-wrap: break-word;
 	width: 33%;
 	max-width: 10px;
 	background-color: #4286f4;
+}
+td:hover {
+	background-color: black;
 }
 img {
 	display: block;
