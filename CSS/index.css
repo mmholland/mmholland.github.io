@@ -10,6 +10,7 @@ h1 {
 	margin-left: 25%;
 	margin-right: 15%;
 	margin-top: 15%;
+	margin-bottom: 0;
 	text-shadow: 2px 2px black;
 }
 h2 {
@@ -19,7 +20,7 @@ h2 {
 	margin-left: 25%;
 	margin-right: 15%;
 	margin-top: 0px;
-	margin-bottom: 5px;
+	margin-bottom: 35px;
 	text-shadow: 2px 2px black;
 }
 h3 {
@@ -28,12 +29,12 @@ h3 {
 }
 p {
 	color: white;
-	font-size: 18;
+	font-size: 22;
 	margin-left: 25%;
 	margin-right: 25%;
 	margin-top: 0px;
 	text-shadow: 2px 2px black;
-	font: 15px Helvetica, Arial, sans-serif;
+	font-family: 'ABeeZee'
 }
 .footer {
 	text-align: center;
