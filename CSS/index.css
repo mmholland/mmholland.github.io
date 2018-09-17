@@ -36,6 +36,11 @@ p {
 	text-shadow: 2px 2px black;
 	font-family: 'ABeeZee'
 }
+.img {
+	margin-left: 20%;
+	margin-top: 10%;
+	float: left;
+}
 .footer {
 	text-align: center;
 	width: 100%;
