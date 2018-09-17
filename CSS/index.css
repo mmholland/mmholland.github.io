@@ -37,15 +37,15 @@ p {
 	font-family: 'ABeeZee'
 }
 .img {
-	margin-left: 5%;
+	margin-left: 8%;
 	margin-right: 1%;
 	margin-top: 10%;
 	float: left;
     border-radius: 50%;
 }
 img.profile {
-	height: 175;
-	width: 175px;
+	height: 150px;
+	width: 150px;
 	border-radius: 50%;
 	border: 1px solid black;
 }
