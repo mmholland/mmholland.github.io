@@ -45,6 +45,7 @@ p {
 .container {
 	min-height: 100%;
 	margin-bottom: 0px;
+	position: relative;
 }
 ul {
 	text-align: right;

@@ -2,7 +2,6 @@ html, body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	padding-bottom: 250px;
 }
 h1 { 
 	color: white;
@@ -41,10 +40,13 @@ p {
 .footer {
 	text-align: center;
 	width: 100%;
+	bottom: 0;
+	position: absolute;
 }
 .container {
 	min-height: 100%;
 	margin-bottom: 0px;
+	position: relative;
 }
 ul {
 	text-align: right;
