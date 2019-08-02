@@ -6,7 +6,7 @@ html, body {
 h1 { 
 	color: white;
 	font-family: 'Aclonica';
-	font-size: 50px;
+	font-size: 30px;
 	margin-left: 15%;
 	margin-right: 15%;
 	margin-top: 5%;
@@ -30,23 +30,15 @@ h3 {
 p {
 	color: white;
 	font-size: 22;
-	margin-left: 25%;
-	margin-right: 25%;
-	margin-top: 0px;
 	text-shadow: 2px 2px black;
 	font-family: 'ABeeZee'
 }
-.img {
+img {
 	margin-top: 15%;
 	margin-left: 10%;
+	height: 50%;
+	width: 40%;
 	float: left;
-    border-radius: 50%;
-}
-img.profile {
-	height: 150px;
-	width: 150px;
-	border-radius: 50%;
-	border: 1px solid black;
 }
 .footer {
 	text-align: center;
@@ -83,22 +75,23 @@ a:hover {
 }
 div.bgimage {
 	background-image: url("https://mmholland.github.io/images/bg.jpg");
-	height: 1080px;
 	text-align: center;
 	background-size: cover;
+	height: 100%;
+	width: 100%;
 }
 div.title {
-	line-height: 600px;
+	line-height: 375px;
 }
 div.p1 {
-	height: 1080px;
-	line-height: 1080px;
 	background-color: black;
 	text-align: center;
+	width: 100%;
+	height: 100%;
 }
 div.p2 {
-	height: 1080px;
-	line-height: 1080px;
-	background-color: grey;
+	background-color: white;
 	text-align: center;
+	width: 100%;
+	height: 100%;
 }
